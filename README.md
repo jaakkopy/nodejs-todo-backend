@@ -20,7 +20,7 @@ git clone https://github.com/jake52227/nodejs-todo-backend.git
 ```
 npm install
 ```
-3. Create a database for the project:
+3. Create a database for the project (Note: this requires PostgreSQL to be set up correctly first):
 ```
 createdb todosdb
 ```
