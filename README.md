@@ -16,11 +16,14 @@ The tools used:
 ```
 git clone https://github.com/jake52227/nodejs-todo-backend.git
 ```
-2. Create a database for the backend:
+2. `cd` to the root of the project. Install the required packages with:
+```
+npm install
+```
+3. Create a database for the backend:
 ```
 createdb todosdb
 ```
-
 Now the backend can be started from the root directory of the project with:
 ```
 npm start
