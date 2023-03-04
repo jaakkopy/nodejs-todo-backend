@@ -1,7 +1,7 @@
 # About
 
 This is my take on an assignment given by [integrify](https://www.integrify.io/). Thank you to integrify for the fun assignment.
-The application in question is a nodejs backend for a TODO application.
+The application in question is a nodejs back end for a TODO application.
 
 The .env is left in intentionally such that the JWT secret, which is defined in the file is ready to go for anyone interested in cloning this repo. This is only for convenience reasons; its not secure.
 
@@ -20,11 +20,11 @@ git clone https://github.com/jake52227/nodejs-todo-backend.git
 ```
 npm install
 ```
-3. Create a database for the backend:
+3. Create a database for the project:
 ```
 createdb todosdb
 ```
-Now the backend can be started from the root directory of the project with:
+Now the server can be started from the root directory of the project with:
 ```
 npm start
 ```
