@@ -3,7 +3,7 @@
 This is my take on an assignment given by [integrify](https://www.integrify.io/). Thank you to integrify for the fun assignment.
 The application in question is a nodejs back end for a TODO application.
 
-The .env is left in intentionally such that the JWT secret, which is defined in the file is ready to go for anyone interested in cloning this repo. This is only for convenience reasons; its not secure.
+The .env is left in intentionally such that the JWT secret, which is defined in the file is ready to go for anyone interested in cloning this repo. This is only for convenience reasons, so the project can be tested quickly; its not secure, so the secret should be changed and kept as a secret afterward!
 
 The tools used:
 - **Language**: JavaScript
